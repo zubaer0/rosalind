@@ -11,6 +11,6 @@ def count_nucleotides(dna_string):
     print(a_count, c_count, g_count, t_count)
 
 # Example usage
-dna_string = "ATGCTTCAGAAAGGTCTTACG"  # Example DNA string
+dna_string = "AGCTTTTCATTCTGACTGCAACGGGCAATATGTCTCTGTGTGGATTAAAAAAAGAGTGTCTGATAGCAGC"  # Example DNA string
 count_nucleotides(dna_string)
 
